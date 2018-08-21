@@ -90,7 +90,7 @@ def charRec(img, text_recs, adjust=False):
    results = {}
    xDim, yDim = img.shape[1], img.shape[0]
 
-   modelpath = opt.modelpath
+   modelpath = './train/models/pytorch-crnn.pth'
    char_set = open('./train/char_std_5990.txt', 'r', encoding='utf-8').readlines()
    char_set = ''.join([ch.strip('\n') for ch in char_set[1:]] + ['卍'])
    n_class = len(char_set)
