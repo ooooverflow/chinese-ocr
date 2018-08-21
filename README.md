@@ -50,3 +50,4 @@
 [warp-ctc-pytorch](https://github.com/SeanNaren/warp-ctc)  
 [chinese_ocr-(tensorflow+keras)](https://github.com/YCG09/chinese_ocr)  
 [CTPN-tensorflow](https://github.com/eragonruan/text-detection-ctpn)  
+[crnn-pytorch](https://github.com/meijieru/crnn.pytorch)
