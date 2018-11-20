@@ -4,7 +4,7 @@
 ## 环境部署
     sh setup.sh  
       
-    使用环境： python 3.6 + tensorflow 1.10 +pytorch 0.4.1
+    使用环境： python 3.6 + tensorflow 1.10 + pytorch 0.4.1
 * 注：CPU环境执行前需注释掉for gpu部分，并解开for cpu部分的注释
 
 ## Demo
